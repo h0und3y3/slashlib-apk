@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Slashlib.Blue" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue_primary</item>
+        <item name="colorOnPrimary">@color/blue_on_primary</item>
+        <item name="colorPrimaryContainer">@color/blue_container</item>
+        <item name="colorOnPrimaryContainer">@color/blue_on_container</item>
+        <item name="colorSecondary">@color/blue_primary</item>
+        <item name="colorOnSecondary">@color/blue_on_primary</item>
+        <item name="colorSecondaryContainer">@color/blue_sec</item>
+        <item name="colorOnSecondaryContainer">@color/blue_on_sec</item>
+    </style>
+    <style name="Theme.Slashlib.Red" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/red_primary</item>
+        <item name="colorOnPrimary">@color/red_on_primary</item>
+        <item name="colorPrimaryContainer">@color/red_container</item>
+        <item name="colorOnPrimaryContainer">@color/red_on_container</item>
+        <item name="colorSecondary">@color/red_primary</item>
+        <item name="colorOnSecondary">@color/red_on_primary</item>
+        <item name="colorSecondaryContainer">@color/red_sec</item>
+        <item name="colorOnSecondaryContainer">@color/red_on_sec</item>
+    </style>
+    <style name="Theme.Slashlib.Orange" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/orange_primary</item>
+        <item name="colorOnPrimary">@color/orange_on_primary</item>
+        <item name="colorPrimaryContainer">@color/orange_container</item>
+        <item name="colorOnPrimaryContainer">@color/orange_on_container</item>
+        <item name="colorSecondary">@color/orange_primary</item>
+        <item name="colorOnSecondary">@color/orange_on_primary</item>
+        <item name="colorSecondaryContainer">@color/orange_sec</item>
+        <item name="colorOnSecondaryContainer">@color/orange_on_sec</item>
+    </style>
+    <style name="Theme.Slashlib.Green" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorOnPrimary">@color/green_on_primary</item>
+        <item name="colorPrimaryContainer">@color/green_container</item>
+        <item name="colorOnPrimaryContainer">@color/green_on_container</item>
+        <item name="colorSecondary">@color/green_primary</item>
+        <item name="colorOnSecondary">@color/green_on_primary</item>
+        <item name="colorSecondaryContainer">@color/green_sec</item>
+        <item name="colorOnSecondaryContainer">@color/green_on_sec</item>
+    </style>
+    <style name="Theme.Slashlib.Teal" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/teal_primary</item>
+        <item name="colorOnPrimary">@color/teal_on_primary</item>
+        <item name="colorPrimaryContainer">@color/teal_container</item>
+        <item name="colorOnPrimaryContainer">@color/teal_on_container</item>
+        <item name="colorSecondary">@color/teal_primary</item>
+        <item name="colorOnSecondary">@color/teal_on_primary</item>
+        <item name="colorSecondaryContainer">@color/teal_sec</item>
+        <item name="colorOnSecondaryContainer">@color/teal_on_sec</item>
+    </style>
+    <style name="Theme.Slashlib.Purple" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="colorOnPrimary">@color/purple_on_primary</item>
+        <item name="colorPrimaryContainer">@color/purple_container</item>
+        <item name="colorOnPrimaryContainer">@color/purple_on_container</item>
+        <item name="colorSecondary">@color/purple_primary</item>
+        <item name="colorOnSecondary">@color/purple_on_primary</item>
+        <item name="colorSecondaryContainer">@color/purple_sec</item>
+        <item name="colorOnSecondaryContainer">@color/purple_on_sec</item>
+    </style>
+    <style name="Theme.Slashlib.Pink" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/pink_primary</item>
+        <item name="colorOnPrimary">@color/pink_on_primary</item>
+        <item name="colorPrimaryContainer">@color/pink_container</item>
+        <item name="colorOnPrimaryContainer">@color/pink_on_container</item>
+        <item name="colorSecondary">@color/pink_primary</item>
+        <item name="colorOnSecondary">@color/pink_on_primary</item>
+        <item name="colorSecondaryContainer">@color/pink_sec</item>
+        <item name="colorOnSecondaryContainer">@color/pink_on_sec</item>
+    </style>
+</resources>
